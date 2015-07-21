@@ -1,0 +1,12 @@
+## Interface: 30000
+
+## Title: Glutton
+## Notes: Auto select highest level food/drink
+## Author: Alex Headley
+## Version: 0.0.1
+
+## X-Website: https://github.com/aheadley
+## X-Email: glutton@waysaboutstuff.com
+## X-Category: Inventory
+
+Glutton.lua
